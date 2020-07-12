@@ -1,0 +1,3 @@
+/home/kebabjoy/project/CMakeFiles/rebuild_cache.dir
+/home/kebabjoy/project/CMakeFiles/edit_cache.dir
+/home/kebabjoy/project/CMakeFiles/main.dir
